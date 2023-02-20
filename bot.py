@@ -6,6 +6,7 @@ from keyboards.set_meny import set_main_menu
 from config_data.config import Config, load_config
 from handlers import other_handlers, user_handlers
 
+x = 5
 # Инициализируем логгер
 logger = logging.getLogger(__name__)
 
