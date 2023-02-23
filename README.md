@@ -1,1 +1,1 @@
-# telegram_bot
+# game 'rock paper scissors'
